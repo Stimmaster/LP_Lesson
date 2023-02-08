@@ -1,0 +1,15 @@
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+D:\GeekBrain\ОБУЧЕНИЕ\1-я четверть\знакомство с языками программирования\LP_Lesson\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
